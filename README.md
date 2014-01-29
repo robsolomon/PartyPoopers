@@ -25,6 +25,7 @@ Currently, the game only works if wired controllers are plugged in before the ga
 
 Who  | What
 ------------- | -------------
+Renee Blair | Art
 Jessica Gore | Music, SFX and Video
 Holly Nunez | Game Wife and Lead Snack Provider
 Valerie Nunez | Art, Character Design
