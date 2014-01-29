@@ -1,6 +1,7 @@
 .DS_Store
 Library
 Temp
+*.booproj
 *.csproj
 *.pidb
 *.unityproj
