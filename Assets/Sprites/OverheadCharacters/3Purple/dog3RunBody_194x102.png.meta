@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 7bced65ea2fa64bb9b3cfe57c644218e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dog3RunBody_194x102_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 306
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 306
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 306
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 306
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 204
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 204
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 204
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_9
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 204
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 102
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 102
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 102
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 102
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: dog3RunBody_194x102_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 194
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
